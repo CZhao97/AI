@@ -1,0 +1,4 @@
+Student name: Chen Zhao (301308092)
+Project work on: Connect 4
+Language: C++
+Library: #include <cassert> #include <iostream> #include <string> #include <vector> #include <algorithm> #include <string> #include <stdlib.h> #include <time.h> #include <fstream> #include <sstream>

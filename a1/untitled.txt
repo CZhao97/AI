@@ -1,0 +1,319 @@
+(5, 2, 4, 1, 8, 0, 7, 3, 6)
+It is the  1st  sample of eight_puzzle
+For h algorithm, the total running time is  3.411024570465088
+For h algorithm, the length of solution is  21
+For h algorithm, the total number of nodes that were removed from frontier is  4424
+For manhattan algorithm,  the total running time is  0.06943178176879883
+For manhattan algorithm, the length of solution is  21
+For manhattan algorithm, the total number of nodes that were removed from frontier is  578
+For the max of the misplaced tile heuristic and the Manhattan distance heuristic, the total running time is  0.07154059410095215
+For the max of the misplaced tile heuristic and the Manhattan distance heuristic, the length of solution is  21
+For the max of the misplaced tile heuristic and the Manhattan distance heuristic, the total number of nodes that were removed from frontier is  578
+
+
+----------------------------------------------------------------------------------------------------
+
+
+(8, 5, 0, 3, 2, 6, 7, 1, 4)
+It is the  2nd  sample of eight_puzzle
+For h algorithm, the total running time is  25.08956480026245
+For h algorithm, the length of solution is  24
+For h algorithm, the total number of nodes that were removed from frontier is  12457
+For manhattan algorithm,  the total running time is  0.1353473663330078
+For manhattan algorithm, the length of solution is  24
+For manhattan algorithm, the total number of nodes that were removed from frontier is  818
+For the max of the misplaced tile heuristic and the Manhattan distance heuristic, the total running time is  0.1378934383392334
+For the max of the misplaced tile heuristic and the Manhattan distance heuristic, the length of solution is  24
+For the max of the misplaced tile heuristic and the Manhattan distance heuristic, the total number of nodes that were removed from frontier is  818
+
+
+----------------------------------------------------------------------------------------------------
+
+
+(5, 8, 4, 3, 7, 6, 1, 0, 2)
+It is the  3rd  sample of eight_puzzle
+For h algorithm, the total running time is  12.653034687042236
+For h algorithm, the length of solution is  23
+For h algorithm, the total number of nodes that were removed from frontier is  8659
+For manhattan algorithm,  the total running time is  0.04380536079406738
+For manhattan algorithm, the length of solution is  23
+For manhattan algorithm, the total number of nodes that were removed from frontier is  444
+For the max of the misplaced tile heuristic and the Manhattan distance heuristic, the total running time is  0.0445711612701416
+For the max of the misplaced tile heuristic and the Manhattan distance heuristic, the length of solution is  23
+For the max of the misplaced tile heuristic and the Manhattan distance heuristic, the total number of nodes that were removed from frontier is  444
+
+
+----------------------------------------------------------------------------------------------------
+
+
+(3, 7, 4, 8, 6, 5, 1, 2, 0)
+It is the  4th  sample of eight_puzzle
+For h algorithm, the total running time is  3.8070132732391357
+For h algorithm, the length of solution is  22
+For h algorithm, the total number of nodes that were removed from frontier is  4665
+For manhattan algorithm,  the total running time is  0.003422975540161133
+For manhattan algorithm, the length of solution is  22
+For manhattan algorithm, the total number of nodes that were removed from frontier is  97
+For the max of the misplaced tile heuristic and the Manhattan distance heuristic, the total running time is  0.003818988800048828
+For the max of the misplaced tile heuristic and the Manhattan distance heuristic, the length of solution is  22
+For the max of the misplaced tile heuristic and the Manhattan distance heuristic, the total number of nodes that were removed from frontier is  97
+
+
+----------------------------------------------------------------------------------------------------
+
+
+(6, 0, 7, 1, 2, 5, 4, 8, 3)
+It is the  5th  sample of eight_puzzle
+For h algorithm, the total running time is  0.4066448211669922
+For h algorithm, the length of solution is  19
+For h algorithm, the total number of nodes that were removed from frontier is  1468
+For manhattan algorithm,  the total running time is  0.0068798065185546875
+For manhattan algorithm, the length of solution is  19
+For manhattan algorithm, the total number of nodes that were removed from frontier is  152
+For the max of the misplaced tile heuristic and the Manhattan distance heuristic, the total running time is  0.0076141357421875
+For the max of the misplaced tile heuristic and the Manhattan distance heuristic, the length of solution is  19
+For the max of the misplaced tile heuristic and the Manhattan distance heuristic, the total number of nodes that were removed from frontier is  152
+
+
+----------------------------------------------------------------------------------------------------
+
+
+(4, 1, 0, 5, 3, 7, 8, 2, 6)
+It is the  6th  sample of eight_puzzle
+For h algorithm, the total running time is  1.2615385055541992
+For h algorithm, the length of solution is  20
+For h algorithm, the total number of nodes that were removed from frontier is  2667
+For manhattan algorithm,  the total running time is  0.01848912239074707
+For manhattan algorithm, the length of solution is  20
+For manhattan algorithm, the total number of nodes that were removed from frontier is  282
+For the max of the misplaced tile heuristic and the Manhattan distance heuristic, the total running time is  0.02000117301940918
+For the max of the misplaced tile heuristic and the Manhattan distance heuristic, the length of solution is  20
+For the max of the misplaced tile heuristic and the Manhattan distance heuristic, the total number of nodes that were removed from frontier is  282
+
+
+----------------------------------------------------------------------------------------------------
+
+
+(5, 0, 4, 2, 8, 3, 7, 6, 1)
+It is the  7th  sample of eight_puzzle
+For h algorithm, the total running time is  0.568903923034668
+For h algorithm, the length of solution is  19
+For h algorithm, the total number of nodes that were removed from frontier is  1774
+For manhattan algorithm,  the total running time is  0.007657289505004883
+For manhattan algorithm, the length of solution is  19
+For manhattan algorithm, the total number of nodes that were removed from frontier is  159
+For the max of the misplaced tile heuristic and the Manhattan distance heuristic, the total running time is  0.007791996002197266
+For the max of the misplaced tile heuristic and the Manhattan distance heuristic, the length of solution is  19
+For the max of the misplaced tile heuristic and the Manhattan distance heuristic, the total number of nodes that were removed from frontier is  159
+
+
+----------------------------------------------------------------------------------------------------
+
+
+(3, 5, 4, 8, 6, 1, 7, 2, 0)
+It is the  8th  sample of eight_puzzle
+For h algorithm, the total running time is  6.3170342445373535
+For h algorithm, the length of solution is  22
+For h algorithm, the total number of nodes that were removed from frontier is  6002
+For manhattan algorithm,  the total running time is  0.03200078010559082
+For manhattan algorithm, the length of solution is  22
+For manhattan algorithm, the total number of nodes that were removed from frontier is  391
+For the max of the misplaced tile heuristic and the Manhattan distance heuristic, the total running time is  0.033559560775756836
+For the max of the misplaced tile heuristic and the Manhattan distance heuristic, the length of solution is  22
+For the max of the misplaced tile heuristic and the Manhattan distance heuristic, the total number of nodes that were removed from frontier is  391
+
+
+----------------------------------------------------------------------------------------------------
+
+
+(8, 3, 1, 5, 6, 4, 0, 2, 7)
+It is the  9th  sample of eight_puzzle
+For h algorithm, the total running time is  1227.6844394207
+For h algorithm, the length of solution is  30
+For h algorithm, the total number of nodes that were removed from frontier is  95814
+For manhattan algorithm,  the total running time is  12.965715885162354
+For manhattan algorithm, the length of solution is  30
+For manhattan algorithm, the total number of nodes that were removed from frontier is  9143
+For the max of the misplaced tile heuristic and the Manhattan distance heuristic, the total running time is  13.101236581802368
+For the max of the misplaced tile heuristic and the Manhattan distance heuristic, the length of solution is  30
+For the max of the misplaced tile heuristic and the Manhattan distance heuristic, the total number of nodes that were removed from frontier is  9143
+
+
+----------------------------------------------------------------------------------------------------
+
+
+(1, 7, 8, 5, 2, 3, 0, 6, 4)
+It is the  10th  sample of eight_puzzle
+For h algorithm, the total running time is  127.04737901687622
+For h algorithm, the length of solution is  26
+For h algorithm, the total number of nodes that were removed from frontier is  28402
+For manhattan algorithm,  the total running time is  0.5793769359588623
+For manhattan algorithm, the length of solution is  26
+For manhattan algorithm, the total number of nodes that were removed from frontier is  1857
+For the max of the misplaced tile heuristic and the Manhattan distance heuristic, the total running time is  0.5764586925506592
+For the max of the misplaced tile heuristic and the Manhattan distance heuristic, the length of solution is  26
+For the max of the misplaced tile heuristic and the Manhattan distance heuristic, the total number of nodes that were removed from frontier is  1857
+
+
+----------------------------------------------------------------------------------------------------
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+(1, 2, 3, 4, 0, 6, 8, 5, 7)
+It is the  1st  sample of Ypuzzle
+For h algorithm, the total running time is  0.00010752677917480469
+For h algorithm, the length of solution is  3
+For h algorithm, the total number of nodes that were removed from frontier is  4
+For manhattan algorithm,  the total running time is  0.0001270771026611328
+For manhattan algorithm, the length of solution is  3
+For manhattan algorithm, the total number of nodes that were removed from frontier is  4
+For the max of the misplaced tile heuristic and the Manhattan distance heuristic, the total running time is  0.00010967254638671875
+For the max of the misplaced tile heuristic and the Manhattan distance heuristic, the length of solution is  3
+For the max of the misplaced tile heuristic and the Manhattan distance heuristic, the total number of nodes that were removed from frontier is  4
+
+
+----------------------------------------------------------------------------------------------------
+
+
+(1, 2, 4, 6, 3, 8, 7, 5, 0)
+It is the  2nd  sample of Ypuzzle
+For h algorithm, the total running time is  0.0008673667907714844
+For h algorithm, the length of solution is  12
+For h algorithm, the total number of nodes that were removed from frontier is  49
+For manhattan algorithm,  the total running time is  0.0004665851593017578
+For manhattan algorithm, the length of solution is  12
+For manhattan algorithm, the total number of nodes that were removed from frontier is  23
+For the max of the misplaced tile heuristic and the Manhattan distance heuristic, the total running time is  0.0005402565002441406
+For the max of the misplaced tile heuristic and the Manhattan distance heuristic, the length of solution is  12
+For the max of the misplaced tile heuristic and the Manhattan distance heuristic, the total number of nodes that were removed from frontier is  23
+
+
+----------------------------------------------------------------------------------------------------
+
+
+(1, 0, 8, 4, 2, 3, 6, 5, 7)
+It is the  3rd  sample of Ypuzzle
+For h algorithm, the total running time is  0.0003364086151123047
+For h algorithm, the length of solution is  10
+For h algorithm, the total number of nodes that were removed from frontier is  21
+For manhattan algorithm,  the total running time is  0.00025081634521484375
+For manhattan algorithm, the length of solution is  10
+For manhattan algorithm, the total number of nodes that were removed from frontier is  12
+For the max of the misplaced tile heuristic and the Manhattan distance heuristic, the total running time is  0.00029349327087402344
+For the max of the misplaced tile heuristic and the Manhattan distance heuristic, the length of solution is  10
+For the max of the misplaced tile heuristic and the Manhattan distance heuristic, the total number of nodes that were removed from frontier is  12
+
+
+----------------------------------------------------------------------------------------------------
+
+
+(1, 2, 3, 8, 4, 6, 7, 5, 0)
+It is the  4th  sample of Ypuzzle
+For h algorithm, the total running time is  0.00011992454528808594
+For h algorithm, the length of solution is  6
+For h algorithm, the total number of nodes that were removed from frontier is  7
+For manhattan algorithm,  the total running time is  0.00014972686767578125
+For manhattan algorithm, the length of solution is  6
+For manhattan algorithm, the total number of nodes that were removed from frontier is  7
+For the max of the misplaced tile heuristic and the Manhattan distance heuristic, the total running time is  0.00017333030700683594
+For the max of the misplaced tile heuristic and the Manhattan distance heuristic, the length of solution is  6
+For the max of the misplaced tile heuristic and the Manhattan distance heuristic, the total number of nodes that were removed from frontier is  7
+
+
+----------------------------------------------------------------------------------------------------
+
+
+(1, 2, 3, 4, 8, 5, 6, 0, 7)
+It is the  5th  sample of Ypuzzle
+For h algorithm, the total running time is  0.0008790493011474609
+For h algorithm, the length of solution is  12
+For h algorithm, the total number of nodes that were removed from frontier is  54
+For manhattan algorithm,  the total running time is  0.0006582736968994141
+For manhattan algorithm, the length of solution is  12
+For manhattan algorithm, the total number of nodes that were removed from frontier is  31
+For the max of the misplaced tile heuristic and the Manhattan distance heuristic, the total running time is  0.0007624626159667969
+For the max of the misplaced tile heuristic and the Manhattan distance heuristic, the length of solution is  12
+For the max of the misplaced tile heuristic and the Manhattan distance heuristic, the total number of nodes that were removed from frontier is  31
+
+
+----------------------------------------------------------------------------------------------------
+
+
+(1, 0, 4, 3, 2, 5, 8, 6, 7)
+It is the  6th  sample of Ypuzzle
+For h algorithm, the total running time is  0.008994579315185547
+For h algorithm, the length of solution is  20
+For h algorithm, the total number of nodes that were removed from frontier is  296
+For manhattan algorithm,  the total running time is  0.0037086009979248047
+For manhattan algorithm, the length of solution is  20
+For manhattan algorithm, the total number of nodes that were removed from frontier is  148
+For the max of the misplaced tile heuristic and the Manhattan distance heuristic, the total running time is  0.004168033599853516
+For the max of the misplaced tile heuristic and the Manhattan distance heuristic, the length of solution is  20
+For the max of the misplaced tile heuristic and the Manhattan distance heuristic, the total number of nodes that were removed from frontier is  148
+
+
+----------------------------------------------------------------------------------------------------
+
+
+(1, 2, 6, 4, 0, 5, 8, 3, 7)
+It is the  7th  sample of Ypuzzle
+For h algorithm, the total running time is  0.002282381057739258
+For h algorithm, the length of solution is  15
+For h algorithm, the total number of nodes that were removed from frontier is  114
+For manhattan algorithm,  the total running time is  0.001482248306274414
+For manhattan algorithm, the length of solution is  15
+For manhattan algorithm, the total number of nodes that were removed from frontier is  63
+For the max of the misplaced tile heuristic and the Manhattan distance heuristic, the total running time is  0.0016934871673583984
+For the max of the misplaced tile heuristic and the Manhattan distance heuristic, the length of solution is  15
+For the max of the misplaced tile heuristic and the Manhattan distance heuristic, the total number of nodes that were removed from frontier is  63
+
+
+----------------------------------------------------------------------------------------------------
+
+
+(1, 2, 3, 5, 6, 4, 7, 8, 0)
+It is the  8th  sample of Ypuzzle
+For h algorithm, the total running time is  0.0022754669189453125
+For h algorithm, the length of solution is  16
+For h algorithm, the total number of nodes that were removed from frontier is  116
+For manhattan algorithm,  the total running time is  0.0018951892852783203
+For manhattan algorithm, the length of solution is  16
+For manhattan algorithm, the total number of nodes that were removed from frontier is  81
+For the max of the misplaced tile heuristic and the Manhattan distance heuristic, the total running time is  0.0021560192108154297
+For the max of the misplaced tile heuristic and the Manhattan distance heuristic, the length of solution is  16
+For the max of the misplaced tile heuristic and the Manhattan distance heuristic, the total number of nodes that were removed from frontier is  81
+
+
+----------------------------------------------------------------------------------------------------
+
+
+(1, 2, 6, 0, 8, 3, 4, 5, 7)
+It is the  9th  sample of Ypuzzle
+For h algorithm, the total running time is  0.01319122314453125
+For h algorithm, the length of solution is  22
+For h algorithm, the total number of nodes that were removed from frontier is  427
+For manhattan algorithm,  the total running time is  0.007884979248046875
+For manhattan algorithm, the length of solution is  22
+For manhattan algorithm, the total number of nodes that were removed from frontier is  272
+For the max of the misplaced tile heuristic and the Manhattan distance heuristic, the total running time is  0.008764505386352539
+For the max of the misplaced tile heuristic and the Manhattan distance heuristic, the length of solution is  22
+For the max of the misplaced tile heuristic and the Manhattan distance heuristic, the total number of nodes that were removed from frontier is  272
+
+
+----------------------------------------------------------------------------------------------------
+
+
+(1, 2, 0, 3, 5, 8, 6, 4, 7)
+It is the  10th  sample of Ypuzzle
+For h algorithm, the total running time is  0.004085540771484375
+For h algorithm, the length of solution is  17
+For h algorithm, the total number of nodes that were removed from frontier is  176
+For manhattan algorithm,  the total running time is  0.002147197723388672
+For manhattan algorithm, the length of solution is  17
+For manhattan algorithm, the total number of nodes that were removed from frontier is  97
+For the max of the misplaced tile heuristic and the Manhattan distance heuristic, the total running time is  0.002577066421508789
+For the max of the misplaced tile heuristic and the Manhattan distance heuristic, the length of solution is  17
+For the max of the misplaced tile heuristic and the Manhattan distance heuristic, the total number of nodes that were removed from frontier is  97
+
+
+----------------------------------------------------------------------------------------------------
